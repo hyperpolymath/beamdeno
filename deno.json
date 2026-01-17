@@ -1,8 +1,8 @@
 {
   "$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
   "name": "@hyperpolymath/beamdeno",
-  "version": "0.1.0",
-  "license": "AGPL-3.0-or-later",
+  "version": "1.0.0",
+  "license": "PMPL-1.0",
   "exports": "./deno/mod.ts",
   "tasks": {
     "test": "deno test --allow-net --allow-run",
